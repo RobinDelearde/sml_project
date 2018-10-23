@@ -1,5 +1,6 @@
 # sml_project
 Sentiment classification task: polarity prediction on movie reviews
+
 Subject: Compare and study influence of representation, parameter and learning method choices on this task
 
 Datasets:
